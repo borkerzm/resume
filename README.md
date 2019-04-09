@@ -1,5 +1,3 @@
-### 在线预览
-[https://eternityspring.github.io/dist/](https://eternityspring.github.io/dist/)
 
 ### 初始化项目
 clone项目
@@ -16,5 +14,3 @@ clone项目
 ## 其他
 蓝色主题版：自行修改 ./scss/style.scss 中的变量。
 
-## License
-CC BY 4.0  [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
